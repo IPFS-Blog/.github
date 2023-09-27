@@ -15,3 +15,22 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+前端簡述
+後端簡述
+區塊鏈簡述
+
+基本文件
+- SRS
+
+口試資料文件
+- 簡報
+- 文件
+
+Miro
+- 系統平台架構圖
+
+影片
+- 系統操作影片
+
+2023畢專 github 連結
