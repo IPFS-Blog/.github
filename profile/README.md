@@ -26,6 +26,7 @@
 - UI函式庫
   - Tailwind css
   - Material UI
+  - React-toastify
 - 功能、資料處理
   - 使用 axios 方式 介接 API
   - Redux Toolkit
