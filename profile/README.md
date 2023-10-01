@@ -44,8 +44,12 @@
 
 
 
-# 功能敘述
-開放的、去中心化的創作環境，同時也可以為使用者提供更好的創作體驗和多樣化的創作選擇。通過使用加密貨幣來驅動平台的運作和貢獻的獎勵。
+# 功能圖解
+![image](https://github.com/IPFS-Blog/.github/assets/113336518/009aeb7d-24eb-4358-8e85-50f8a7435df2)
+
+# 系統統整
+![image](https://github.com/IPFS-Blog/.github/assets/113336518/904759b6-f759-4749-80f9-042eb47ce59c)
+
 
 # 基本文件
 - [SRS 軟體需求書(正在更新中)](https://docs.google.com/document/d/1-IZckLUhmSBGhUZj-m0Z9OAlvugrRJ6V/edit?usp=sharing&ouid=100558131168893606998&rtpof=true&sd=true)
