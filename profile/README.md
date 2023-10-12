@@ -31,6 +31,19 @@
   - 使用 axios 方式 介接 API
   - Redux Toolkit
 ## 後端簡述
+- 框架
+  - NestJS
+- 語言
+  - TypeScript
+- 資料庫
+  - Mariadb
+  - 以 TyeORM 進行物件映射
+  - 透過 QueryBuilder 進行更細緻的 SQL 操作
+## IPFS(InterPlanetary File System)星際檔案系統
+- 是一個去中心化的分佈式文件系統和傳輸協議。
+- IPFS 不依賴中心化伺服器,而是通過分佈式網絡連接多個節點儲存和傳輸數據。
+- 可通過添加節點來增加儲存容量。
+- 使用唯一 Hash 值來標識文件。
 ## 區塊鏈簡述
 區塊鏈能夠在去中心化環境中安全、透明地記錄交易和數據。我們建立一個私有區塊鏈，利用了以下技術來實現其運作和監控：
 
